@@ -10,8 +10,7 @@
   transition: opacity 0.3s ease .5s;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-decoration: none;
-}
+  }
 
 .footer__row-link:hover {
   opacity: .5;
