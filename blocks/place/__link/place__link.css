@@ -4,7 +4,7 @@
   font-size: 18px;
   line-height: 22px;
   text-decoration: underline;
-  transition: .4s ease-in
+  transition: opacity ease 300ms;
 }
 
 .place__link:hover {
