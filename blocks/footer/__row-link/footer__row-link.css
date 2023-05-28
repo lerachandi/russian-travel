@@ -7,10 +7,11 @@
   line-height: 1.12;
   color: #ffffff;
   text-decoration: none;
-  transition: opacity 0.3s ease .5s;
+  transition: opacity 1s ease .1s;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  }
+
+}
 
 .footer__row-link:hover {
   opacity: .5;
