@@ -17,3 +17,9 @@
     text-align: left;
   }
 }
+
+@media screen and (max-width: 321px) {
+  .footer__author {
+    font-size: 14px;
+  }
+}
