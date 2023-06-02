@@ -22,7 +22,7 @@
   .place {
     grid-template-columns: 340px 1fr;
     column-gap: 28px;
-    padding-bottom: 73px
+    padding-bottom: 73px;
   }
 
 }
