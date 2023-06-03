@@ -7,3 +7,9 @@
   text-transform: uppercase;
   font-weight: 400;
 }
+
+@media screen and (max-width: 321px){
+  .place__url-heading {
+    line-height: 20px;
+  }
+}
