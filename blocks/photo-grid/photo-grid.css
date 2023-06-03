@@ -4,8 +4,8 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   gap: 16px;
-  justify-content: stretch;
-  align-items: stretch;
+  /*justify-content: stretch;
+  align-items: stretch;*/
   box-sizing: content-box;
 }
 
@@ -24,7 +24,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 425px) {
   .photo-grid {
     gap: 16px;
     width: 90%;

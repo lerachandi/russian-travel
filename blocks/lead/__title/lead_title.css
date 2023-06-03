@@ -9,8 +9,20 @@
   font-style: normal;
 }
 
+@media screen and (max-width: 990px) {
+  .lead__title {
+    width: 95%;
+  }
+}
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 720px) {
+    .lead__title {
+      font-size: 55px;
+      line-height: 60px;
+    }
+}
+
+@media screen and (max-width: 500px) {
   .lead__title {
     font-size: 40px;
     line-height: 44px;

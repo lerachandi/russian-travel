@@ -1,5 +1,6 @@
 .place__paragraphs {
   /*width: 484px;*/
+  color: #FFFFFF;
   display: flex;
   flex-direction: column;
   /*gap: 28px;*/
